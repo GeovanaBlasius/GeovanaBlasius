@@ -1,37 +1,55 @@
-<h1 align="center">👩🏻‍💻 Geovana Blasius</h1>
+### My Stacks~
 
----
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img
+    align="left"
+    alt="C"
+    title="C"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img
+    align="left"
+    alt="java"
+    title="java"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+/>
 
-<table align="center">
-  <tr>
-    <td align="center" width="10px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" title="HTML"/>
-    </td>
-    <td align="center" width="10px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" title="CSS"/>
-    </td>
-    <td align="center" width="10px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px" title="C"/>
-    </td>
-    <td align="center" width="10px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" title="JavaScript"/>
-    </td>
-    <td align="center" width="10px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" title="Java"/>
-    </td>
-  </tr>
-</table>
-
-<br><br>
-
-<div align="center">
+<br/>
+<br/>
 
 ### 📊 Estatísticas
 
 <img 
-    alt="GitHub Stats" 
-    height="140" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovanaBlasius&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
-
-</div>
+      align="left" 
+      alt="GitHub Stats" 
+      height="100" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovanaBlasius&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
