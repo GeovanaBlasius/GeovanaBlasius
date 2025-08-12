@@ -17,5 +17,5 @@
 
 <h3 align="center">📊 Minhas estatísticas</h3>
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovanaBlasius&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovanaBlasius&theme=dracula&layout=compact&custom_title=Linguagens&langs_count=9" />
 </p>
