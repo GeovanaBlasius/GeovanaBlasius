@@ -2,20 +2,6 @@
 
 ---
 
-<p align="left">
-    <a>
-        <img href=[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](instagraam)
-        />
-    </a>
-    <a>
-        <img 
-            href=[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)]()
-        />
-    </a> 
-</p>
-
-### My Stack~
-
 <img 
     align="left" 
     alt="HTML"
@@ -57,7 +43,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
 />
 
-<br/>
 <br/>
 
 ### 📊 Estatísticas
