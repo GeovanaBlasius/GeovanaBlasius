@@ -1,20 +1,19 @@
-<!-- Título com efeito -->
+<!-- Cabeçalho com efeito de digitação -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=👩🏻‍💻+Geovana+Blasius;Desenvolvedora+Full+Stack;Apaixonada+por+Tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=👩🏻‍💻+Geovana+Blasius;Desenvolvedora+Full+Stack;Apaixonada+por+Tecnologia;Bem-vindo(a)+ao+meu+GitHub!">
 </h1>
 
 ---
 
-<!-- Apresentação -->
+<!-- GIF de boas-vindas -->
 <p align="center">
-  🌟 Seja bem-vindo(a) ao meu espaço no GitHub!  
-  Aqui você encontra projetos, estudos e minha evolução no mundo da programação 🚀
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px">
 </p>
 
 ---
 
 <!-- Tecnologias -->
-<h3 align="center">💻 Tecnologias que utilizo</h3>
+<h3 align="center">🚀 Tecnologias & Ferramentas</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="50px" style="margin: 15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" width="50px" style="margin: 15px;" />
@@ -34,9 +33,16 @@
 
 ---
 
-<!-- Mensagem final -->
+<!-- Animação de contribuições -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GeovanaBlasius/GeovanaBlasius/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+<!-- Mensagem final com GIF -->
 <p align="center">
   ✨ "A tecnologia move o mundo, mas a paixão pelo aprendizado o mantém vivo." ✨  
-  <br>
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
+  <br><br>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300px"/>
 </p>
