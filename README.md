@@ -1,6 +1,7 @@
 ### 👩🏻‍💻 Geovana Blasius
 
 **`ASPIRANTE A DEV`**
+---
 
 <p align="left">
     <a>
@@ -13,8 +14,6 @@
         />
     </a> 
 </p>
-
----
 
 ### My Stack~
 
@@ -61,6 +60,8 @@
 
 <br/>
 <br/>
+
+---
 
 ### 📊 Estatísticas
 
