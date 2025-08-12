@@ -1,6 +1,5 @@
 ### 👩🏻‍💻 Geovana Blasius
 
-**`ASPIRANTE A DEV`**
 ---
 
 <p align="left">
@@ -60,8 +59,6 @@
 
 <br/>
 <br/>
-
----
 
 ### 📊 Estatísticas
 
