@@ -1,55 +1,29 @@
-### My Stacks~
+<h1 align="center">👩🏻‍💻 Geovana Blasius</h1>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img
-    align="left"
-    alt="C"
-    title="C"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img
-    align="left"
-    alt="java"
-    title="java"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-/>
+<p align="center">
+  <em>Desenvolvedora em constante evolução 🚀</em>
+</p>
 
-<br/>
-<br/>
+---
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="50px" style="margin: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" width="50px" style="margin: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="50px" style="margin: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="50px" style="margin: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="50px" style="margin: 15px;" />
+</p>
+
+---
+
+<div align="center">
 
 ### 📊 Estatísticas
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="100" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovanaBlasius&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+    alt="GitHub Stats" 
+    height="160" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovanaBlasius&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+/>
+
+</div>
