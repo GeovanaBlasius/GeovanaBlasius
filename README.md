@@ -4,12 +4,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px">
-</p>
-
----
-
 <h3 align="center">🚀 Tecnologias & Ferramentas</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="50px" style="margin: 15px;" />
