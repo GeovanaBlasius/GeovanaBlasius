@@ -33,6 +33,12 @@
     style="margin: 0 20px;" 
   />
 </p>
+<img 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+    title="JavaScript" 
+    width="50px" 
+    style="margin: 0 20px;" 
+  />
 
 ---
 
