@@ -40,7 +40,6 @@
   />
 </p>
 
-
 ---
 
 <h3 align="center">📊 Minhas estatísticas</h3>
@@ -49,4 +48,10 @@
     height="160" 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GeovanaBlasius&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9" 
   />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GeovanaBlasius/GeovanaBlasius/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </p>
