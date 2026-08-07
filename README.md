@@ -3,15 +3,15 @@
 </h1>
 
 <p align="center">
-  **Estudante de Ciência da Computação no IFC Campus Rio do Sul / Brasil<br />**
+  <strong>Estudante de Ciência da Computação no IFC Campus Rio do Sul / Brasil</strong><br />
 </p>
 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/geovana-blasius-8570b8358/"> 
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> 
   </a> 
-  <a <a href="mailto:blasiusgeovana61@gmail.com">
-  <img src="https://img.shields.io/badge/E--mail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="blasiusgeovana61@gmail.com" />
+  <a href="mailto:blasiusgeovana61@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="blasiusgeovana61@gmail.com" />
   </a> 
   <img src="https://komarev.com/ghpvc/?username=GeovanaBlasius&color=8A2BE2&style=for-the-badge&label=Visitas" alt="Visitas no perfil" /> 
 </p>
@@ -24,19 +24,18 @@
 
 <br />
 
-  <p align="center">
-  <img 
-    height="160" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GeovanaBlasius&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9" 
-  />
+<p align="center">
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GeovanaBlasius&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=GeovanaBlasius&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeovanaBlasius/GeovanaBlasius/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GeovanaBlasius/GeovanaBlasius/output/github-contribution-grid-snake.svg" />
-  <img alt="Animação da cobrinha percorrendo o gráfico de contribuições" src="https://raw.githubusercontent.com/GeovanaBlasius/GeovanaBlasius/output/github-contribution-grid-snake.svg" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeovanaBlasius/GeovanaBlasius/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GeovanaBlasius/GeovanaBlasius/output/github-contribution-grid-snake.svg" />
+    <img alt="Animação da cobrinha percorrendo o gráfico de contribuições" src="https://raw.githubusercontent.com/GeovanaBlasius/GeovanaBlasius/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
