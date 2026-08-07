@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Estudante de Ciência da Computação no IFC Rio do Sul<br />
+  Estudante de Ciência da Computação no IFC Campus Rio do Sul / Brasil<br />
 </p>
 
 <p align="center">
