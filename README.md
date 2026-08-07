@@ -4,7 +4,6 @@
 
 <p align="center">
   Estudante de Ciência da Computação no IFC Rio do Sul<br />
-  Desenvolvimento e integrações ERP • Automação • IA aplicada a ferramentas de desenvolvimento
 </p>
 
 <p align="center">
@@ -19,39 +18,24 @@
 
 <br />
 
-## 🚀 Tecnologias & Ferramentas
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,html,css,c,python,git,github,vscode,mysql&theme=dark" alt="Tecnologias: Java, JavaScript, HTML, CSS, C, Python, Git, GitHub, VS Code, MySQL" />
 </p>
 
 <br />
 
-## 📊 Minhas estatísticas
-
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=GeovanaBlasius&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&custom_title=Estat%C3%ADsticas&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovanaBlasius&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9&hide_border=true" alt="Linguagens mais usadas" />
+  <p align="center">
+  <img 
+    height="160" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GeovanaBlasius&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9" 
+  />
 </p>
 
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=GeovanaBlasius&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
 </p>
-
-<br />
-
-## 📌 Projetos em destaque
-
-<p align="center">
-  <a href="https://github.com/GeovanaBlasius/NOME-DO-REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GeovanaBlasius&repo=NOME-DO-REPO&theme=tokyonight&hide_border=true" alt="Projeto 1" />
-  </a>
-  <a href="https://github.com/GeovanaBlasius/OUTRO-REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GeovanaBlasius&repo=OUTRO-REPO&theme=tokyonight&hide_border=true" alt="Projeto 2" />
-  </a>
-</p>
-
-<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeovanaBlasius/GeovanaBlasius/output/github-contribution-grid-snake-dark.svg" />
