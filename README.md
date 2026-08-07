@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO/">
+  <a href="https://www.linkedin.com/in/geovana-blasius-8570b8358/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:seu@email.com">
-    <img src="https://img.shields.io/badge/E--mail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+    <img src="https://img.shields.io/badge/E--mail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="blasiusgeovana61@gamil.com" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=GeovanaBlasius&color=8A2BE2&style=for-the-badge&label=Visitas" alt="Visitas no perfil" />
 </p>
@@ -24,8 +24,6 @@
 
 <br />
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GeovanaBlasius&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&custom_title=Estat%C3%ADsticas&hide_border=true" alt="Estatísticas do GitHub" />
   <p align="center">
   <img 
     height="160" 
