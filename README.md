@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/geovana-blasius-8570b8358/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:seu@email.com">
+  <a href="mailto:blasiusgeovana61@gamil.com">
     <img src="https://img.shields.io/badge/E--mail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="blasiusgeovana61@gamil.com" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=GeovanaBlasius&color=8A2BE2&style=for-the-badge&label=Visitas" alt="Visitas no perfil" />
