@@ -1,57 +1,60 @@
 <h1 align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=👩🏻‍💻+Geovana+Blasius;Bem-vindo(a)+ao+meu+GitHub!;Welcome+to+my+GitHub!" 
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Geovana+Blasius;Bem-vindo(a)+ao+meu+GitHub!;Welcome+to+my+GitHub!" alt="Geovana Blasius" />
 </h1>
 
----
-
-<h3 align="center">🚀 Tecnologias & Ferramentas</h3>
 <p align="center">
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-    title="HTML" 
-    width="50px" 
-    style="margin: 0 20px;" 
-  />
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-    title="CSS" 
-    width="50px" 
-    style="margin: 0 20px;" 
-  />
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
-    title="C" 
-    width="50px" 
-    style="margin: 0 20px;" 
-  />
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
-    title="Java" 
-    width="50px" 
-    style="margin: 0 20px;" 
-  />
-  <img 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-    title="JavaScript" 
-    width="50px" 
-    style="margin: 0 20px;" 
-  />
+  Estudante de Ciência da Computação no IFC Rio do Sul<br />
+  Desenvolvimento e integrações ERP • Automação • IA aplicada a ferramentas de desenvolvimento
 </p>
 
----
-
-<h3 align="center">📊 Minhas estatísticas</h3>
 <p align="center">
-  <img 
-    height="160" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GeovanaBlasius&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9" 
-  />
+  <a href="https://www.linkedin.com/in/SEU-USUARIO/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:seu@email.com">
+    <img src="https://img.shields.io/badge/E--mail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=GeovanaBlasius&color=8A2BE2&style=for-the-badge&label=Visitas" alt="Visitas no perfil" />
 </p>
 
----
+<br />
+
+## 🚀 Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GeovanaBlasius/GeovanaBlasius/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,c,python,git,github,vscode,mysql&theme=dark" alt="Tecnologias: Java, JavaScript, HTML, CSS, C, Python, Git, GitHub, VS Code, MySQL" />
 </p>
+
+<br />
+
+## 📊 Minhas estatísticas
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GeovanaBlasius&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&custom_title=Estat%C3%ADsticas&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovanaBlasius&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9&hide_border=true" alt="Linguagens mais usadas" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=GeovanaBlasius&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+</p>
+
+<br />
+
+## 📌 Projetos em destaque
+
+<p align="center">
+  <a href="https://github.com/GeovanaBlasius/NOME-DO-REPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GeovanaBlasius&repo=NOME-DO-REPO&theme=tokyonight&hide_border=true" alt="Projeto 1" />
+  </a>
+  <a href="https://github.com/GeovanaBlasius/OUTRO-REPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GeovanaBlasius&repo=OUTRO-REPO&theme=tokyonight&hide_border=true" alt="Projeto 2" />
+  </a>
+</p>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeovanaBlasius/GeovanaBlasius/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GeovanaBlasius/GeovanaBlasius/output/github-contribution-grid-snake.svg" />
+  <img alt="Animação da cobrinha percorrendo o gráfico de contribuições" src="https://raw.githubusercontent.com/GeovanaBlasius/GeovanaBlasius/output/github-contribution-grid-snake.svg" />
+</picture>
