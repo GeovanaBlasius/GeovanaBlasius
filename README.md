@@ -25,8 +25,8 @@
 
 <br />
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GeovanaBlasius&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9" alt="Linguagens mais usadas" />
+<p align="center"> 
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovanaBlasius&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9" alt="Linguagens mais usadas" /> </p>
 </p>
 
 <p align="center">
