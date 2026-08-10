@@ -26,7 +26,12 @@
 <br />
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovanaBlasius&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9&hide_border=true" alt="Linguagens mais usadas" />
+  <img 
+    alt="GitHub Stats" 
+    height="140" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovanaBlasius&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+/>
+
 </p>
 
 <p align="center">
